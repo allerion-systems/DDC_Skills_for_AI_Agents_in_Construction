@@ -47,6 +47,28 @@ Default command:
 
 > Turn this project information into an estimate-ready scope and proposal outline.
 
+## Project Management Agent
+
+Mission: Run a job from signed contract to final payment — the operational counterpart to the Estimator Agent. Roofing-focused, white-label ready.
+
+Responsibilities:
+
+- turn an approved estimate/SOV into a work plan
+- build and maintain the schedule (weather + critical path)
+- assign crews and track subcontractor scope
+- generate material orders and track deliveries
+- track permits and schedule inspections
+- run the daily field loop (reports, photos, blockers)
+- capture and route change orders before work proceeds
+- trigger draws/invoices at milestones and watch retainage
+- drive closeout: punch list, warranty, waivers, sign-off
+
+Default command:
+
+> Turn this approved estimate into a project plan: schedule, crews, material orders, inspection checkpoints, and a draw schedule. Then tell me the first thing at risk.
+
+See `agents/project-management-agent.md` for the full definition and `agents/clients/deer-park-roofing.md` for the Deer Park Roofing white-label config.
+
 ## Content Agent
 
 Mission: Turn proof-of-work into public content.
