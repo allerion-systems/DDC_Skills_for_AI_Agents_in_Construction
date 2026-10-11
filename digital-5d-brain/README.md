@@ -64,3 +64,7 @@ Every artifact should become one of three things:
 ## Next command
 
 Start filling out `templates/project-case-study-template.md` for every major project Joey has touched.
+
+## Research log
+- [2026-10-11 Fluorspar uses and fusion](research/2026-10-11-fluorspar-and-fusion.md)
+- [2026-10-11 Invention disclosures: solar roofing, batteries, edge data center](research/2026-10-11-invention-disclosures.md)
